@@ -3,3 +3,6 @@ data/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+notebboks/00_trial.ipynb
+notebooks/07_submissions.ipynb
+outputs/2_submissions
