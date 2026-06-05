@@ -4,4 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 notebooks/00_trial.ipynb
-outputs/2_submissions
+outputs/
